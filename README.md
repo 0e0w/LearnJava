@@ -10,6 +10,10 @@
 
 - [ ] [《27天成为Java大神》](https://github.com/DuGuQiuBai/Java)
 - [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
+- [ ] [《互联网 Java 工程师进阶知识完全扫盲》](https://github.com/doocs/advanced-java)
+- [ ] [《Java工程师成神之路》](https://github.com/hollischuang/toBeTopJavaer)
+- [ ] [《IntelliJ IDEA 简体中文专题教程》](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+- [ ] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
 
 二、高手进阶
 
