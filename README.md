@@ -8,10 +8,14 @@
 
 一、基础入门
 
+- [ ] [《27天成为Java大神》](https://github.com/DuGuQiuBai/Java)
+- [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
+
 二、高手进阶
 
 三、算法学习
 
+- [ ] [《The Algorithms - Java》](https://github.com/TheAlgorithms/Java)
 - [ ] [《用Java简化数据结构和算法》](https://github.com/careermonk/data-structures-and-algorithms-made-easy-in-java)
 
 四、Web编程
@@ -19,6 +23,8 @@
 五、实体书籍
 
 六、杂七杂八
+
+- [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 
 ## 0x02-Java视频
 
