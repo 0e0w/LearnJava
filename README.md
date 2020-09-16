@@ -29,6 +29,7 @@
 六、杂七杂八
 
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
+- [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 
 ## 0x02-Java视频
 
