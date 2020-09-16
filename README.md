@@ -30,6 +30,7 @@
 
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
+- [ ] https://github.com/jobbole/awesome-java-cn
 
 ## 0x02-Java视频
 
