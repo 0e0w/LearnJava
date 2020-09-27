@@ -1,10 +1,18 @@
 # LearnJava
 
-本项目记录自己学习Java过程中遇到的一些优秀项目。包括一些Java的基础教程和一些优秀的Java项目代码。尽可能的使用Java，尽可能的使用Java进行hack。
+本项目记录自己学习Java过程中遇到的一些优秀项目。包括一些Java语言的基础教程和一些优秀的Java项目代码，以及Java代码审计的案例。尽可能去理解Java漏洞原理，尽可能去挖掘Java程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnJava)
 
-本项目创建于2020年9月15日。最近一次更新时间为9月15日。
+本项目创建于2020年9月10日。最近一次更新时间为9月27日。
 
-## 0x01-Java书籍
+- [0x01-Java语言书籍]()
+- [0x02-Java语言视频]()
+- [0x03-Java语言论坛]()
+- [0x04-Java代码审计]()
+- [0x05-Java语言框架]()
+- [0x06-Java语言项目]()
+- [0x07-Java黑客工具]()
+
+## 0x01-Java语言书籍
 
 一、基础入门
 
@@ -17,6 +25,8 @@
 
 二、高手进阶
 
+- [ ] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
+
 三、算法学习
 
 - [ ] [《The Algorithms - Java》](https://github.com/TheAlgorithms/Java)
@@ -24,7 +34,11 @@
 
 四、Web编程
 
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
+
 五、实体书籍
+
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
 
 六、杂七杂八
 
@@ -32,14 +46,32 @@
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 - [ ] https://github.com/jobbole/awesome-java-cn
 
-## 0x02-Java视频
+## 0x02-Java语言视频
 
-## 0x03-Java论坛
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
 
-## 0x04-Java框架
+## 0x03-Java语言论坛
 
-## 0x05-HackWithJava
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
 
-## 0x06-Java扫描
+## 0x04-Java代码审计
 
-## 0x99-Java大牛
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
+
+## 0x05-Java语言框架
+
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
+
+## 0x06-Java语言项目
+
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
+
+## 0x07-Java黑客工具
+
+〇、HackWithJava
+
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
+
+## 0x08-Java语言老师
+
+- [x] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
