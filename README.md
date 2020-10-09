@@ -2,7 +2,7 @@
 
 本项目记录自己学习Java过程中遇到的一些优秀项目。包括一些Java语言的基础教程和一些优秀的Java项目代码，以及Java代码审计的案例。尽可能去理解Java漏洞原理，尽可能去挖掘Java程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnJava)
 
-本项目创建于2020年9月10日。最近一次更新时间为10月03日。
+本项目创建于2020年9月10日。最近一次更新时间为10月09日。
 
 - [0x01-Java语言书籍](https://github.com/0e0w/Learnjava#0x01-java%E8%AF%AD%E8%A8%80%E4%B9%A6%E7%B1%8D)
 - [0x02-Java语言视频](https://github.com/0e0w/Learnjava#0x02-java%E8%AF%AD%E8%A8%80%E8%A7%86%E9%A2%91)
@@ -18,7 +18,7 @@
 
 - [ ] [《27天成为Java大神》](https://github.com/DuGuQiuBai/Java)
 - [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
-- [ ] [《互联网 Java 工程师进阶知识完全扫盲》](https://github.com/doocs/advanced-java)
+- [ ] [《互联网 Java工程师进阶知识完全扫盲》](https://github.com/doocs/advanced-java)
 - [ ] [《Java工程师成神之路》](https://github.com/hollischuang/toBeTopJavaer)
 - [ ] [《IntelliJ IDEA 简体中文专题教程》](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - [ ] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
@@ -51,7 +51,7 @@
 
 ## 0x02-Java语言视频
 
-- [ ] 
+- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 
 ## 0x03-Java漏洞靶场
 
@@ -69,17 +69,17 @@
 
 ## 0x05-Java语言框架
 
-- [ ] 
+- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 
 ## 0x06-Java语言项目
 
-- [ ] 
+- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 
 ## 0x07-Java黑客工具
 
 〇、HackWithJava
 
-- [ ] 
+- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 
 一、Webshell
 
@@ -89,4 +89,5 @@
 
 ## 0x08-Java语言老师
 
-- [ ] 
+- [awesome-java](https://github.com/Snailclimb/awesome-java)
+
