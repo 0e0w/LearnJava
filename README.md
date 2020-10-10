@@ -10,7 +10,7 @@
 - [0x04-Java代码审计](https://github.com/0e0w/Learnjava#0x04-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
 - [0x05-Java语言框架](https://github.com/0e0w/Learnjava#0x05-java%E8%AF%AD%E8%A8%80%E6%A1%86%E6%9E%B6)
 - [0x06-Java语言项目](https://github.com/0e0w/Learnjava#0x06-java%E8%AF%AD%E8%A8%80%E9%A1%B9%E7%9B%AE)
-- [0x07-Java安全工具](https://github.com/0e0w/Learnjava#0x07-java%E9%BB%91%E5%AE%A2%E5%B7%A5%E5%85%B7)
+- [0x07-Java安全工具](https://github.com/0e0w/Learnjava#0x07-java%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
 
 ## 0x01-Java语言书籍
 
