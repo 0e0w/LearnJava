@@ -2,7 +2,7 @@
 
 本项目记录自己学习Java过程中遇到的一些优秀项目。包括一些Java语言的基础教程和一些优秀的Java项目代码，以及Java代码审计的案例。尽可能去理解Java漏洞原理，尽可能去挖掘Java程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnJava)
 
-本项目创建于2020年9月10日。最近一次更新时间为10月09日。
+本项目创建于2020年9月10日。最近一次更新时间为10月10日。
 
 - [0x01-Java语言书籍](https://github.com/0e0w/Learnjava#0x01-java%E8%AF%AD%E8%A8%80%E4%B9%A6%E7%B1%8D)
 - [0x02-Java语言视频](https://github.com/0e0w/Learnjava#0x02-java%E8%AF%AD%E8%A8%80%E8%A7%86%E9%A2%91)
@@ -23,6 +23,7 @@
 - [ ] [《IntelliJ IDEA 简体中文专题教程》](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - [ ] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
 - [ ] [《On Java 8》](https://github.com/LingCoder/OnJava8)
+- [ ] [《JavaFamily》](https://github.com/AobingJava/JavaFamily)
 
 二、高手进阶
 
