@@ -2,7 +2,7 @@
 
 本项目记录自己学习Java过程中遇到的一些优秀项目。包括一些Java语言的基础教程和一些优秀的Java项目代码，以及Java代码审计的案例。尽可能去理解Java漏洞原理，尽可能去挖掘Java程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnJava)
 
-本项目创建于2020年9月10日。最近一次更新时间为10月15日。
+本项目创建于2020年9月10日。最近一次更新时间为10月17日。
 
 - [0x01-Java语言书籍](https://github.com/0e0w/Learnjava#0x01-java%E8%AF%AD%E8%A8%80%E4%B9%A6%E7%B1%8D)
 - [0x02-Java语言视频](https://github.com/0e0w/Learnjava#0x02-java%E8%AF%AD%E8%A8%80%E8%A7%86%E9%A2%91)
@@ -69,6 +69,7 @@
 - [ ] [JavaThings](https://github.com/phith0n/JavaThings)
 - [ ] [javaweb-sec](https://github.com/anbai-inc/javaweb-sec)
 - [ ] https://github.com/momosecurity/rhizobia_J
+- [ ] https://github.com/feihong-cs/Java-Rce-Echo
 
 ## 0x05-Java语言框架
 
