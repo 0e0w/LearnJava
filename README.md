@@ -60,6 +60,8 @@
 
 ## 0x04-Java代码审计
 
+〇、代码审计
+
 - [ ] [javasec_study](https://github.com/proudwind/javasec_study)
 - [ ] [Fortify](https://github.com/wooyunwang/Fortify)
 - [ ] [learnjavabug](https://github.com/threedr3am/learnjavabug)
@@ -70,6 +72,34 @@
 - [ ] [javaweb-sec](https://github.com/anbai-inc/javaweb-sec)
 - [ ] https://github.com/momosecurity/rhizobia_J
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
+
+一、程序安装问题
+
+二、业务逻辑漏洞
+
+三、SQL注入漏洞
+
+四、变量覆盖漏洞
+
+五、任意文件上传漏洞
+
+六、任意文件写入漏洞
+
+七、任意文件删除漏洞
+
+八、任意文件包含漏洞
+
+九、任意命令执行漏洞
+
+十、PHP反序列化漏洞
+
+十一、XSS跨站脚本攻击
+
+十二、XML外部实体攻击
+
+十三、CSRF跨站请求伪造
+
+十四、SSRF服务端请求伪造
 
 ## 0x05-Java语言框架
 
