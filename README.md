@@ -72,6 +72,7 @@
 - [ ] [javaweb-sec](https://github.com/anbai-inc/javaweb-sec)
 - [ ] https://github.com/momosecurity/rhizobia_J
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
+- [ ] https://github.com/Y4er/WebLogic-Shiro-shell
 
 一、程序安装问题
 
