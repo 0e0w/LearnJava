@@ -4,17 +4,16 @@
 
 关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。
 
-本项目创建于2020年9月10日。最近一次更新时间为10月24日。
+本项目创建于2020年9月10日。最近一次更新时间为10月27日。
 
-- [0x01-Java语言书籍](https://github.com/0e0w/Learnjava#0x01-java%E8%AF%AD%E8%A8%80%E4%B9%A6%E7%B1%8D)
-- [0x02-Java语言视频](https://github.com/0e0w/Learnjava#0x02-java%E8%AF%AD%E8%A8%80%E8%A7%86%E9%A2%91)
-- [0x03-Java漏洞靶场](https://github.com/0e0w/LearnJava#0x03-java%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
-- [0x04-Java代码审计](https://github.com/0e0w/Learnjava#0x04-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [0x05-Java语言框架](https://github.com/0e0w/Learnjava#0x05-java%E8%AF%AD%E8%A8%80%E6%A1%86%E6%9E%B6)
-- [0x06-Java语言项目](https://github.com/0e0w/Learnjava#0x06-java%E8%AF%AD%E8%A8%80%E9%A1%B9%E7%9B%AE)
-- [0x07-Java安全工具](https://github.com/0e0w/Learnjava#0x07-java%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
+- [0x01-Java学习资源]()
+- [0x02-Java语言项目]()
+- [0x03-Java漏洞靶场]()
+- [0x04-Java代码审计]()
+- [0x05-Java框架漏洞]()
+- [0x06-Java安全工具]()
 
-## 0x01-Java语言书籍
+## 0x01-Java学习资源
 
 一、基础入门
 
@@ -45,7 +44,11 @@
 
 - [x] https://github.com
 
-六、杂七杂八
+六、视频教程
+
+- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
+
+七、杂七杂八
 
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
@@ -53,7 +56,7 @@
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 - [ ] 代码审计小组相关内容
 
-## 0x02-Java语言视频
+## 0x02-Java学习项目
 
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 
@@ -105,15 +108,11 @@
 
 十四、SSRF服务端请求伪造
 
-## 0x05-Java语言框架
+## 0x05-Java框架漏洞
 
 - [ ] https://github.com/ityouknow/spring-boot-examples
 
-## 0x06-Java语言项目
-
-- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
-
-## 0x07-Java安全工具
+## 0x06-Java安全工具
 
 〇、HackWithJava
 
@@ -131,7 +130,7 @@
 
 三、路径扫描
 
-- [ ] https://github.com
+- [ ] https://github.com/safe6Sec/dirScan
 
 四、端口扫描
 
@@ -169,7 +168,7 @@
 - [ ] https://github.com/Ramos-dev/graph4code
 - [ ] https://github.com/Efaker/FakerAndroid
 
-## 0x08-Java语言老师
+## 0x07-Java语言老师
 
 - [awesome-java](https://github.com/Snailclimb/awesome-java)
 
