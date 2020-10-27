@@ -100,6 +100,8 @@
 
 十、Java反序列化漏洞
 
+- [ ] https://github.com/JackOfMostTrades/gadgetinspector
+
 十一、XSS跨站脚本攻击
 
 十二、XML外部实体攻击
