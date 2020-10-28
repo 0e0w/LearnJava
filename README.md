@@ -1,10 +1,10 @@
 # LearnJava
 
-本项目记录自己学习Java过程中遇到的一些优秀项目。包括一些Java语言的基础教程和一些优秀的Java项目代码，以及Java代码审计的案例。尽可能去理解Java漏洞原理，尽可能去挖掘Java程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnJava)
+本项目记录自己在学习Java的过程中遇到的一些优秀内容，包括Java的相关学习资源以及Java的优秀项目代码等。尽可能去理解Java漏洞原理，尽可能去挖掘Java程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnJava)
 
 关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。
 
-本项目创建于2020年9月10日。最近一次更新时间为10月27日。
+本项目创建于2020年9月10日。最近一次更新时间为10月28日。
 
 - [0x01-Java学习资源](https://github.com/0e0w/Learnjava#0x01-java%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-Java学习项目](https://github.com/0e0w/Learnjava#0x02-java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -59,6 +59,7 @@
 ## 0x02-Java学习项目
 
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
+- [ ] https://github.com/dbeaver/dbeaver
 
 ## 0x03-Java漏洞靶场
 
@@ -79,6 +80,7 @@
 - [ ] https://github.com/momosecurity/rhizobia_J
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
 - [ ] https://github.com/Y4er/WebLogic-Shiro-shell
+- [ ] https://github.com/frohoff/ysoserial
 
 一、程序安装问题
 
