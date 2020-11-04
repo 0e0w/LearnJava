@@ -116,6 +116,7 @@
 ## 0x05-Java框架漏洞
 
 - [ ] https://github.com/ityouknow/spring-boot-examples
+- [ ] https://github.com/kevinsawicki/http-request
 
 ## 0x06-Java安全工具
 
