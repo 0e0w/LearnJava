@@ -29,7 +29,7 @@
 
 二、高手进阶
 
-- [ ] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
+- [ ] github.com
 
 三、算法学习
 
