@@ -60,6 +60,7 @@
 
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 - [ ] https://github.com/dbeaver/dbeaver
+- [ ] https://github.com/google/firing-range
 
 ## 0x03-Java漏洞靶场
 
