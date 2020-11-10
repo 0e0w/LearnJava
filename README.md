@@ -4,7 +4,7 @@
 
 关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。
 
-本项目创建于2020年9月10日。最近一次更新时间为11月08日。
+本项目创建于2020年9月10日。最近一次更新时间为11月10日。
 
 - [0x01-Java学习资源](https://github.com/0e0w/Learnjava#0x01-java%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-Java学习项目](https://github.com/0e0w/Learnjava#0x02-java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -103,6 +103,8 @@
 
 十、Java反序列化漏洞
 
+- [ ] https://github.com/frohoff/ysoserial
+- [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
 
 十一、XSS跨站脚本攻击
