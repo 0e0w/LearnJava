@@ -4,7 +4,7 @@
 
 关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。
 
-本项目创建于2020年9月10日。最近一次更新时间为11月25日。
+本项目创建于2020年9月10日。最近一次更新时间为11月27日。
 
 - [0x01-Java学习资源](https://github.com/0e0w/Learnjava#0x01-java%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-Java学习项目](https://github.com/0e0w/Learnjava#0x02-java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -189,6 +189,7 @@
 - [ ] https://github.com/Efaker/FakerAndroid
 - [ ] https://github.com/skylot/jadx
 - [ ] https://github.com/SPuerBRead/Bridge
+- [ ] https://github.com/tangxiaofeng7/Fofa-collect
 - [ ] https://github.com/Cool-Coding/remote-desktop-control
 
 ## 0x07-Java语言老师
