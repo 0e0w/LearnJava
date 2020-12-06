@@ -4,7 +4,7 @@
 
 关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。
 
-本项目创建于2020年9月10日。最近一次更新时间为2020年12月5日。
+本项目创建于2020年9月10日。最近一次更新时间为2020年12月6日。
 
 - [0x01-Java学习资源](https://github.com/0e0w/Learnjava#0x01-java%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-Java学习项目](https://github.com/0e0w/Learnjava#0x02-java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -20,7 +20,7 @@
 - [ ] [《27天成为Java大神》](https://github.com/DuGuQiuBai/Java)
 - [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
 - [ ] [《互联网 Java工程师进阶知识完全扫盲》](https://github.com/doocs/advanced-java)
-- [ ] [《Java工程师成神之路》](https://github.com/hollischuang/toBeTopJavaer)
+- [ ] [《Java工程师成神之路》](https://github.com/hollischuang/toBeTopJavaer)@hollischuang
 - [ ] [《IntelliJ IDEA 简体中文专题教程》](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - [ ] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
 - [ ] [《On Java 8》](https://github.com/LingCoder/OnJava8)
