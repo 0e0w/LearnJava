@@ -91,6 +91,7 @@
 - [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
 - [ ] https://github.com/feihong-cs/JNDIExploit
+- [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
 
 一、程序安装问题
 
