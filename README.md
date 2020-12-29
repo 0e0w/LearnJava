@@ -4,7 +4,7 @@
 
 关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。面向对象编程！
 
-本项目创建于2020年9月10日。最近一次更新时间为2020年12月27日。
+本项目创建于2020年9月10日。最近一次更新时间为2020年12月29日。
 
 - [0x01-Java学习资源](https://github.com/0e0w/Learnjava#0x01-java%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-Java学习项目](https://github.com/0e0w/Learnjava#0x02-java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -27,6 +27,7 @@
 - [ ] [《JavaFamily》](https://github.com/AobingJava/JavaFamily)
 - [ ] [《Java编程思想》](https://github.com/apachecn/thinking-in-java-zh)
 - [ ] [《Java技术栈》](https://github.com/g0dA/javaStack)
+- [ ] [《从零开始学习JavaSE》](https://github.com/hs-vae/java-load)
 
 二、高手进阶
 
