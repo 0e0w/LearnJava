@@ -96,6 +96,7 @@
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
 - [ ] https://github.com/March110/javaweb-sec
 - [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
+- [ ] https://github.com/wh1t3p1g/ysomap
 
 一、程序安装问题
 
