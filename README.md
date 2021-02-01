@@ -212,6 +212,7 @@
 - [ ] https://github.com/iBotPeaches/Apktool
 - [ ] https://github.com/oracle/graal
 - [ ] https://github.com/TheKingOfDuck/Loki
+- [ ] https://github.com/LSPosed/LSPosed
 - [ ] https://github.com/guardrailsio/awesome-java-security
 
 ## 0x07-Java语言老师
