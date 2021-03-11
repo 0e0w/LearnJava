@@ -79,6 +79,7 @@
 - [ ] https://github.com/dschadow/Java-Web-Security
 - [ ] https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle
 - [ ] https://github.com/novysodope/mytestvul
+- [ ] https://github.com/langligelang/maobugs
 
 ## 0x04-Java代码审计
 
