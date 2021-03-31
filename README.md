@@ -184,6 +184,7 @@
 - [ ] https://github.com/google/tsunami-security-scanner
 - [ ] https://github.com/tangxiaofeng7/VulnFind
 - [ ] https://github.com/tangxiaofeng7/TSLab-Exploit
+- [ ] https://github.com/yhy0/ExpDemo-JavaFX
 
 八、隧道代理
 
@@ -221,6 +222,7 @@
 - [ ] https://github.com/Wker666/Demo
 - [ ] https://github.com/Ppsoft1991/CodeReviewTools
 - [ ] https://github.com/r00t4dm/aLIEz
+- [ ] https://github.com/bihe0832/Android-GetAPKInfo
 
 ## 0x06-Java语言老师
 
