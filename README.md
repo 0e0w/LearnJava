@@ -4,7 +4,7 @@
 
 关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。面向对象编程！
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年5月9日。
+本项目创建于2020年9月10日。最近一次更新时间为2021年5月13日。
 
 - [0x01-Java学习资源](https://github.com/0e0w/Learnjava#0x01-java%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-Java优秀框架]()
@@ -205,6 +205,7 @@
 
 十一、移动安全
 
+- [ ] https://github.com/ElderDrivers/EdXposed
 - [ ] https://github.com/charles2gan/GDA-android-reversing-Tool
 
 十二、其他项目
