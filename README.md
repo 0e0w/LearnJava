@@ -1,18 +1,21 @@
 # LearnJava
 
-本项目记录自己在学习Java的过程中遇到的一些优秀内容，包括Java的相关学习资源以及优秀项目代码等。尽可能去理解Java漏洞原理，尽可能去挖掘Java程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnJava)
+本项目是记录自己在学习Java语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能得理解Java漏洞原理，尽可能得挖掘Java程序漏洞。学习Java语言，面向对象编程！作者：[0e0w](https://github.com/0e0w/LearnJava)
 
-关于Java的学习教程，可以参考[《365天深入理解Java》](https://github.com/0e0w/365Java)。面向对象编程！
+关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年5月15日。
+本项目创建于2020年9月10日。最近一次更新时间为2021年5月18日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Java学习资源](https://github.com/0e0w/Learnjava#0x01-java%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-- [0x02-Java优秀框架]()
-- [0x03-Java优秀项目]()
-- [0x04-Java安全研究]()
-- [0x05-Java安全工具]()
+- [0x01-Java语言资源]()
+- [0x02-Java语言标准]()
+- [0x03-Java语言框架]()
+- [0x04-Java语言项目]()
+- [0x05-Java代码审计]()
+- [0x06-Java安全工具]()
 
-## 0x01-Java学习资源
+- [0x07-Java优秀老师]()
+
+## 0x01-Java语言资源
 
 一、基础书籍
 
@@ -30,8 +33,6 @@
 
 二、视频教程
 
-- [ ] [awesome-java]()
-
 三、算法学习
 
 - [ ] [《The Algorithms - Java》](https://github.com/TheAlgorithms/Java)
@@ -39,9 +40,13 @@
 
 四、Web开发
 
-- [ ] https://github.com
+五、英文资源
 
-五、其他资源
+六、论坛版块
+
+七、面试资料
+
+八、其他资源
 
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
@@ -49,13 +54,12 @@
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 - [ ] https://github.com/doocs/jvm
 - [ ] https://github.com/singgel/JAVA_LINE
-- [ ] 代码审计小组相关内容
 
-## 0x02-Java优秀框架
+## 0x02-Java语言标准
 
-- [ ] 
+## 0x03-Java语言框架
 
-## 0x03-Java优秀项目
+## 0x04-Java语言项目
 
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 - [ ] https://github.com/dbeaver/dbeaver
@@ -71,7 +75,11 @@
 - [ ] https://github.com/virjar/echo
 - [ ] https://github.com/kennycason/kumo
 
-## 0x04-Java安全研究
+## 0x05-Java代码审计
+
+- 代码审计小组相关内容
+
+- 漏洞靶机
 
 - [ ] https://github.com/Mysticbinary/WebBug
 - [ ] https://github.com/dschadow/JavaSecurity
@@ -83,7 +91,7 @@
 - [ ] https://github.com/kevinsawicki/http-request
 - [ ] https://github.com/NanoHttpd/nanohttpd
 
-〇、代码审计
+- 代码审计
 
 - [ ] [javasec_study](https://github.com/proudwind/javasec_study)
 - [ ] [Fortify](https://github.com/wooyunwang/Fortify)
@@ -104,44 +112,45 @@
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/wh1t3p1g/tabby
 - [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
+- [ ] https://github.com/returntocorp/semgrep
 
-一、程序安装问题
+- 程序安装问题
 
-二、业务逻辑漏洞
+- 业务逻辑漏洞
 
-三、SQL注入漏洞
+- SQL注入漏洞
 
 - [ ] https://github.com/yhy0/sqlilab-Jsp
 
-四、变量覆盖漏洞
+- 变量覆盖漏洞
 
-五、任意文件上传漏洞
+- 任意文件上传漏洞
 
-六、任意文件写入漏洞
+- 任意文件写入漏洞
 
-七、任意文件删除漏洞
+- 任意文件删除漏洞
 
-八、任意文件包含漏洞
+- 任意文件包含漏洞
 
-九、任意命令执行漏洞
+- 任意命令执行漏洞
 
-十、Java反序列化漏洞
+- Java反序列化漏洞
 
 - [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
 
-十一、XSS跨站脚本攻击
+- XSS跨站脚本攻击
 
-十二、XML外部实体攻击
+- XML外部实体攻击
 
-十三、CSRF跨站请求伪造
+- CSRF跨站请求伪造
 
-十四、SSRF服务端请求伪造
+- SSRF服务端请求伪造
 
-## 0x05-Java安全工具
+## 0x06-Java安全工具
 
-〇、HackWithJava
+- HackWithJava
 
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 
@@ -243,7 +252,7 @@
 - [ ] https://github.com/nnjun/BlackBox
 - [ ] https://github.com/haidragon/study_Android_Mchange
 
-## 0x06-Java语言老师
+## 0x07-Java优秀老师
 
 - [awesome-java](https://github.com/Snailclimb/awesome-java)
 
