@@ -6,19 +6,17 @@
 
 本项目创建于2020年9月10日。最近一次更新时间为2021年5月18日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Java语言资源]()
-- [0x02-Java语言标准]()
-- [0x03-Java语言框架]()
-- [0x04-Java语言项目]()
-- [0x05-Java代码审计]()
-- [0x06-Java安全工具]()
-
-- [0x07-Java优秀老师]()
+- [0x01-Java语言资源](https://github.com/0e0w/LearnJava#0x01-java%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90)
+- [0x02-Java语言标准](https://github.com/0e0w/LearnJava#0x02-java%E8%AF%AD%E8%A8%80%E6%A0%87%E5%87%86)
+- [0x03-Java语言框架](https://github.com/0e0w/LearnJava#0x03-java%E8%AF%AD%E8%A8%80%E6%A1%86%E6%9E%B6)
+- [0x04-Java语言项目](https://github.com/0e0w/LearnJava#0x04-java%E8%AF%AD%E8%A8%80%E9%A1%B9%E7%9B%AE)
+- [0x05-Java代码审计](https://github.com/0e0w/LearnJava#0x05-java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
+- [0x06-Java安全工具](https://github.com/0e0w/LearnJava#0x06-java%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
+- [0x07-Java优秀老师](https://github.com/0e0w/LearnJava#0x07-java%E4%BC%98%E7%A7%80%E8%80%81%E5%B8%88)
 
 ## 0x01-Java语言资源
 
 一、基础书籍
-
 - [ ] [《27天成为Java大神》](https://github.com/DuGuQiuBai/Java)
 - [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
 - [ ] [《互联网 Java工程师进阶知识完全扫盲》](https://github.com/doocs/advanced-java)
@@ -32,22 +30,15 @@
 - [ ] [《从零开始学习JavaSE》](https://github.com/hs-vae/java-load)
 
 二、视频教程
-
 三、算法学习
-
 - [ ] [《The Algorithms - Java》](https://github.com/TheAlgorithms/Java)
 - [ ] [《用Java简化数据结构和算法》](https://github.com/careermonk/data-structures-and-algorithms-made-easy-in-java)
 
 四、Web开发
-
 五、英文资源
-
 六、论坛版块
-
 七、面试资料
-
 八、其他资源
-
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 - [ ] [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
@@ -78,9 +69,7 @@
 ## 0x05-Java代码审计
 
 - 代码审计小组相关内容
-
 - 漏洞靶机
-
 - [ ] https://github.com/Mysticbinary/WebBug
 - [ ] https://github.com/dschadow/JavaSecurity
 - [ ] https://github.com/dschadow/Java-Web-Security
@@ -92,7 +81,6 @@
 - [ ] https://github.com/NanoHttpd/nanohttpd
 
 - 代码审计
-
 - [ ] [javasec_study](https://github.com/proudwind/javasec_study)
 - [ ] [Fortify](https://github.com/wooyunwang/Fortify)
 - [ ] [learnjavabug](https://github.com/threedr3am/learnjavabug)
@@ -119,7 +107,6 @@
 - 业务逻辑漏洞
 
 - SQL注入漏洞
-
 - [ ] https://github.com/yhy0/sqlilab-Jsp
 
 - 变量覆盖漏洞
@@ -135,7 +122,6 @@
 - 任意命令执行漏洞
 
 - Java反序列化漏洞
-
 - [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
@@ -151,11 +137,9 @@
 ## 0x06-Java安全工具
 
 - HackWithJava
-
 - [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 
 一、Webshell
-
 - [ ] https://github.com/rebeyond/Behinder
 - [ ] https://github.com/BeichenDream/Godzilla
 - [ ] https://github.com/threedr3am/JSP-Webshells
@@ -163,28 +147,22 @@
 - [ ] https://github.com/thatcherclough/BetterBackdoor
 
 二、域名扫描
-
 - [ ] https://github.com
 
 三、路径扫描
-
 - [ ] https://github.com/safe6Sec/dirScan
 
 四、端口扫描
-
 - [ ] https://github.com/angryip/ipscan
 
 五、密码爆破
-
 - [ ] https://github.com
 
 六、Web安全
-
 - [ ] https://github.com/sanbuzhi/sqldd
 - [ ] https://github.com/ethicalhackingplayground/ssrf-king
 
 七、漏洞扫描
-
 - [ ] https://github.com/kuiguansec/rcetool
 - [ ] https://github.com/redtimmy/Richsploit
 - [ ] https://github.com/21superman/weblogic_exploit
@@ -199,26 +177,21 @@
 - [ ] https://github.com/yhy0/ExpDemo-JavaFX
 
 八、隧道代理
-
 - [ ] https://github.com/ffay/lanproxy
 - [ ] https://github.com/Ramos-dev/OSSTunnel
 - [ ] https://github.com/CreditTone/mitmproxy-java
 
 九、病毒免杀
-
 - [ ] https://github.com
 
 十、代码审计
-
 - [ ] https://github.com/TheKingOfDuck/MySQLMonitor
 
 十一、移动安全
-
 - [ ] https://github.com/ElderDrivers/EdXposed
 - [ ] https://github.com/charles2gan/GDA-android-reversing-Tool
 
 十二、其他项目
-
 - [ ] https://github.com/Ramos-dev/R9000
 - [ ] https://github.com/Ramos-dev/graph4code
 - [ ] https://github.com/Efaker/FakerAndroid
