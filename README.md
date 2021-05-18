@@ -16,6 +16,9 @@
 
 ## 0x01-Java语言资源
 
+- https://github.com/Snailclimb/awesome-java
+- https://github.com/jobbole/awesome-java-cn
+
 一、基础书籍
 - [ ] [《27天成为Java大神》](https://github.com/DuGuQiuBai/Java)
 - [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
@@ -30,19 +33,24 @@
 - [ ] [《从零开始学习JavaSE》](https://github.com/hs-vae/java-load)
 
 二、视频教程
+
 三、算法学习
+
 - [ ] [《The Algorithms - Java》](https://github.com/TheAlgorithms/Java)
 - [ ] [《用Java简化数据结构和算法》](https://github.com/careermonk/data-structures-and-algorithms-made-easy-in-java)
 
 四、Web开发
+
 五、英文资源
+
 六、论坛版块
+
 七、面试资料
+
 八、其他资源
+
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
-- [ ] [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
-- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 - [ ] https://github.com/doocs/jvm
 - [ ] https://github.com/singgel/JAVA_LINE
 
@@ -52,7 +60,6 @@
 
 ## 0x04-Java语言项目
 
-- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
 - [ ] https://github.com/dbeaver/dbeaver
 - [ ] https://github.com/google/firing-range
 - [ ] https://github.com/ewilded/shelling
@@ -79,6 +86,7 @@
 - [ ] https://github.com/ityouknow/spring-boot-examples
 - [ ] https://github.com/kevinsawicki/http-request
 - [ ] https://github.com/NanoHttpd/nanohttpd
+- [ ] https://github.com/TheKingOfDuck/MySQLMonitor
 
 一、代码审计
 - [ ] [javasec_study](https://github.com/proudwind/javasec_study)
@@ -121,7 +129,7 @@
 
 十、任意命令执行漏洞
 
-十一、Java反序列化漏洞
+十一、反序列化漏洞
 - [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
@@ -136,33 +144,16 @@
 
 ## 0x06-Java安全工具
 
-- HackWithJava
-- [ ] [awesome-java](https://github.com/Snailclimb/awesome-java)
+一、域名扫描
 
-一、Webshell
-- [ ] https://github.com/rebeyond/Behinder
-- [ ] https://github.com/BeichenDream/Godzilla
-- [ ] https://github.com/threedr3am/JSP-Webshells
-- [ ] https://github.com/Ramos-dev/OSSTunnel
-- [ ] https://github.com/thatcherclough/BetterBackdoor
+二、端口扫描
 
-二、域名扫描
-- [ ] https://github.com
-
-三、路径扫描
-- [ ] https://github.com/safe6Sec/dirScan
-
-四、端口扫描
 - [ ] https://github.com/angryip/ipscan
 
-五、密码爆破
-- [ ] https://github.com
+三、资产扫描
 
-六、Web安全
-- [ ] https://github.com/sanbuzhi/sqldd
-- [ ] https://github.com/ethicalhackingplayground/ssrf-king
+四、漏洞扫描
 
-七、漏洞扫描
 - [ ] https://github.com/kuiguansec/rcetool
 - [ ] https://github.com/redtimmy/Richsploit
 - [ ] https://github.com/21superman/weblogic_exploit
@@ -176,22 +167,48 @@
 - [ ] https://github.com/tangxiaofeng7/TSLab-Exploit
 - [ ] https://github.com/yhy0/ExpDemo-JavaFX
 
-八、隧道代理
+五、密码破解
+
+六、路径扫描
+
+- [ ] https://github.com/safe6Sec/dirScan
+
+七、Web安全
+
+- [ ] https://github.com/sanbuzhi/sqldd
+- [ ] https://github.com/ethicalhackingplayground/ssrf-king
+
+八、Webshell
+
+- [ ] https://github.com/rebeyond/Behinder
+- [ ] https://github.com/BeichenDream/Godzilla
+- [ ] https://github.com/threedr3am/JSP-Webshells
+- [ ] https://github.com/Ramos-dev/OSSTunnel
+- [ ] https://github.com/thatcherclough/BetterBackdoor
+
+九、病毒免杀
+
+十、隧道代理
+
 - [ ] https://github.com/ffay/lanproxy
 - [ ] https://github.com/Ramos-dev/OSSTunnel
 - [ ] https://github.com/CreditTone/mitmproxy-java
 
-九、病毒免杀
-- [ ] https://github.com
+十一、内网渗透
 
-十、代码审计
-- [ ] https://github.com/TheKingOfDuck/MySQLMonitor
+十二、蜜罐钓鱼
 
-十一、移动安全
+十三、应急响应
+
+十四、移动安全
+
 - [ ] https://github.com/ElderDrivers/EdXposed
 - [ ] https://github.com/charles2gan/GDA-android-reversing-Tool
 
-十二、其他项目
+十五、漏洞赏金
+
+十六、其他项目
+
 - [ ] https://github.com/Ramos-dev/R9000
 - [ ] https://github.com/Ramos-dev/graph4code
 - [ ] https://github.com/Efaker/FakerAndroid
@@ -227,5 +244,11 @@
 
 ## 0x07-Java优秀老师
 
-- [awesome-java](https://github.com/Snailclimb/awesome-java)
+此处排名不分先后，向自己在学习Go语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
+一、Java教程资源
+
+- ninty-jspspy作者
+- 
+
+二、Java语言参考
