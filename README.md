@@ -80,7 +80,7 @@
 - [ ] https://github.com/kevinsawicki/http-request
 - [ ] https://github.com/NanoHttpd/nanohttpd
 
-- 代码审计
+一、代码审计
 - [ ] [javasec_study](https://github.com/proudwind/javasec_study)
 - [ ] [Fortify](https://github.com/wooyunwang/Fortify)
 - [ ] [learnjavabug](https://github.com/threedr3am/learnjavabug)
@@ -102,37 +102,37 @@
 - [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
 - [ ] https://github.com/returntocorp/semgrep
 
-- 程序安装问题
+二、程序安装问题
 
-- 业务逻辑漏洞
+三、业务逻辑漏洞
 
-- SQL注入漏洞
+四、SQL注入漏洞
 - [ ] https://github.com/yhy0/sqlilab-Jsp
 
-- 变量覆盖漏洞
+五、变量覆盖漏洞
 
-- 任意文件上传漏洞
+六、任意文件上传漏洞
 
-- 任意文件写入漏洞
+七、任意文件写入漏洞
 
-- 任意文件删除漏洞
+八、任意文件删除漏洞
 
-- 任意文件包含漏洞
+九、任意文件包含漏洞
 
-- 任意命令执行漏洞
+十、任意命令执行漏洞
 
-- Java反序列化漏洞
+十一、Java反序列化漏洞
 - [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/wh1t3p1g/ysomap
 - [ ] https://github.com/JackOfMostTrades/gadgetinspector
 
-- XSS跨站脚本攻击
+十二、XSS跨站脚本攻击
 
-- XML外部实体攻击
+十三、XML外部实体攻击
 
-- CSRF跨站请求伪造
+十四、CSRF跨站请求伪造
 
-- SSRF服务端请求伪造
+十五、SSRF服务端请求伪造
 
 ## 0x06-Java安全工具
 
