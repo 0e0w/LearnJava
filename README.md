@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年5月27日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年5月28日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java语言资源](https://github.com/0e0w/LearnJava#0x01-java%E8%AF%AD%E8%A8%80%E8%B5%84%E6%BA%90)
 - [0x02-Java语言标准](https://github.com/0e0w/LearnJava#0x02-java%E8%AF%AD%E8%A8%80%E6%A0%87%E5%87%86)
@@ -210,6 +210,7 @@
 - [ ] https://github.com/CodingGay/BlackDex
 - [ ] https://github.com/ElderDrivers/EdXposed
 - [ ] https://github.com/charles2gan/GDA-android-reversing-Tool
+- [ ] https://github.com/asLody/AndHook
 
 十五、漏洞赏金
 
