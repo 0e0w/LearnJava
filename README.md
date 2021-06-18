@@ -6,13 +6,13 @@
 
 本项目创建于2020年9月10日。最近一次更新时间为2021年6月18日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Java资源]()
-- [0x02-Java标准]()
-- [0x03-Java框架]()
-- [0x04-Java项目]()
-- [0x05-Java漏洞]()
-- [0x06-Java安全]()
-- [0x07-Java老师](h)
+- [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
+- [0x02-Java标准](https://github.com/0e0w/LearnJava#0x02-java%E6%A0%87%E5%87%86)
+- [0x03-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
+- [0x04-Java项目](https://github.com/0e0w/LearnJava#0x04-java%E9%A1%B9%E7%9B%AE)
+- [0x05-Java漏洞](https://github.com/0e0w/LearnJava#0x05-java%E6%BC%8F%E6%B4%9E)
+- [0x06-Java安全](https://github.com/0e0w/LearnJava#0x06-java%E5%AE%89%E5%85%A8)
+- [0x07-Java老师](https://github.com/0e0w/LearnJava#0x07-java%E8%80%81%E5%B8%88)
 
 ## 0x01-Java资源
 
