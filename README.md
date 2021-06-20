@@ -54,6 +54,7 @@
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 - [ ] https://github.com/doocs/jvm
 - [ ] https://github.com/singgel/JAVA_LINE
+- [ ] https://github.com/CL0610/Java-concurrency
 
 ## 0x02-Java标准
 
