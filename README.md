@@ -80,6 +80,7 @@
 - [ ] https://github.com/tn5250j/tn5250j
 - [ ] https://github.com/riskscanner/riskscanner
 - [ ] https://github.com/lucee/Lucee
+- [ ] https://github.com/alipay/SoloPi
 
 ## 0x05-Java漏洞
 
@@ -235,6 +236,7 @@
 十七、Burp插件
 
 - [ ] https://github.com/bit4woo/burp-api-drops
+- [ ] https://github.com/synacktiv/HopLa
 
 十八、其他项目
 
@@ -278,6 +280,7 @@
 - [ ] https://github.com/SafeGroceryStore/MDUT
 - [ ] https://github.com/Maskhe/FastjsonScan
 - [ ] https://github.com/safe6Sec/ThinkPHPLogScan
+- [ ] https://github.com/c0ny1/FastjsonExploit
 
 ## 0x07-Java老师
 
