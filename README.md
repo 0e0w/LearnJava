@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年6月29日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年6月30日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java标准](https://github.com/0e0w/LearnJava#0x02-java%E6%A0%87%E5%87%86)
@@ -116,7 +116,6 @@
 - [ ] https://github.com/momosecurity/rhizobia_J
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
 - [ ] https://github.com/Y4er/WebLogic-Shiro-shell
-- [ ] https://github.com/frohoff/ysoserial
 - [ ] https://github.com/feihong-cs/Java-Rce-Echo
 - [ ] https://github.com/feihong-cs/JNDIExploit
 - [ ] https://github.com/welk1n/JNDI-Injection-Exploit
@@ -285,6 +284,7 @@
 - [ ] https://github.com/safe6Sec/ThinkPHPLogScan
 - [ ] https://github.com/c0ny1/FastjsonExploit
 - [ ] https://github.com/jenkinsci/nuclei-plugin
+- [ ] https://github.com/darvincisec/DetectMagiskHide
 
 ## 0x07-Java老师
 
