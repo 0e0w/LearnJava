@@ -84,6 +84,7 @@
 - [ ] https://github.com/lucee/Lucee
 - [ ] https://github.com/alipay/SoloPi
 - [ ] https://github.com/black-ant/case
+- [ ] https://github.com/TheKingOfDuck/evilzip
 
 ## 0x05-Java漏洞
 
@@ -239,6 +240,7 @@
 
 - [ ] https://github.com/bit4woo/burp-api-drops
 - [ ] https://github.com/synacktiv/HopLa
+- [ ] https://github.com/ggg4566/BurpBountyPlus
 
 十八、其他项目
 
@@ -285,6 +287,7 @@
 - [ ] https://github.com/c0ny1/FastjsonExploit
 - [ ] https://github.com/jenkinsci/nuclei-plugin
 - [ ] https://github.com/darvincisec/DetectMagiskHide
+- [ ] https://github.com/T00lsNet/T00lsAndroidClient
 
 ## 0x07-Java老师
 
