@@ -4,15 +4,14 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年7月2日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年7月3日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
-- [0x02-Java标准](https://github.com/0e0w/LearnJava#0x02-java%E6%A0%87%E5%87%86)
-- [0x03-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
-- [0x04-Java项目](https://github.com/0e0w/LearnJava#0x04-java%E9%A1%B9%E7%9B%AE)
-- [0x05-Java漏洞](https://github.com/0e0w/LearnJava#0x05-java%E6%BC%8F%E6%B4%9E)
-- [0x06-Java安全](https://github.com/0e0w/LearnJava#0x06-java%E5%AE%89%E5%85%A8)
-- [0x07-Java老师](https://github.com/0e0w/LearnJava#0x07-java%E8%80%81%E5%B8%88)
+- [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
+- [0x03-Java项目](https://github.com/0e0w/LearnJava#0x03-java%E9%A1%B9%E7%9B%AE)
+- [0x04-Java漏洞](https://github.com/0e0w/LearnJava#0x04-java%E6%BC%8F%E6%B4%9E)
+- [0x05-Java安全](https://github.com/0e0w/LearnJava#0x05-java%E5%AE%89%E5%85%A8)
+- [0x06-Java老师](https://github.com/0e0w/LearnJava#0x06-java%E8%80%81%E5%B8%88)
 
 ## 0x01-Java资源
 
@@ -57,15 +56,13 @@
 - [ ] https://github.com/singgel/JAVA_LINE
 - [ ] https://github.com/CL0610/Java-concurrency
 
-## 0x02-Java标准
-
-## 0x03-Java框架
+## 0x02-Java框架
 
 - [ ] https://github.com/dromara/hutool
 - [ ] https://github.com/MrZhousf/OkHttp3
 - [ ] https://www.javassist.org
 
-## 0x04-Java项目
+## 0x03-Java项目
 
 - [ ] https://github.com/dbeaver/dbeaver
 - [ ] https://github.com/google/firing-range
@@ -86,7 +83,7 @@
 - [ ] https://github.com/black-ant/case
 - [ ] https://github.com/TheKingOfDuck/evilzip
 
-## 0x05-Java漏洞
+## 0x04-Java漏洞
 
 〇、代码审计
 
@@ -163,7 +160,7 @@
 
 十五、SSRF服务端请求伪造
 
-## 0x06-Java安全
+## 0x05-Java安全
 
 一、域名扫描
 
@@ -288,8 +285,9 @@
 - [ ] https://github.com/jenkinsci/nuclei-plugin
 - [ ] https://github.com/darvincisec/DetectMagiskHide
 - [ ] https://github.com/T00lsNet/T00lsAndroidClient
+- [ ] https://github.com/Astartgo/easy-for-webscan
 
-## 0x07-Java老师
+## 0x06-Java老师
 
 此处排名不分先后，向自己在学习Java语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
