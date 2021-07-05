@@ -35,7 +35,6 @@
 二、视频教程
 
 三、算法学习
-
 - [ ] [《The Algorithms - Java》](https://github.com/TheAlgorithms/Java)
 - [ ] [《用Java简化数据结构和算法》](https://github.com/careermonk/data-structures-and-algorithms-made-easy-in-java)
 - [ ] https://github.com/MisterBooo/LeetCodeAnimation
@@ -105,7 +104,6 @@
 - [ ] https://github.com/JoyChou93/java-sec-code
 
 二、Java代码审计
-
 - [ ] [javasec_study](https://github.com/proudwind/javasec_study)
 - [ ] [Fortify](https://github.com/wooyunwang/Fortify)
 - [ ] [learnjavabug](https://github.com/threedr3am/learnjavabug)
@@ -131,30 +129,24 @@
 三、常规Web漏洞
 
 本部分详细列举常见的Java安全漏洞内容。
-
 - 程序安装问题
 - 业务逻辑漏洞
 - SQL注入漏洞
   - https://github.com/yhy0/sqlilab-Jsp
-
 - 变量覆盖漏洞
 - 任意文件上传漏洞
 - 任意文件写入漏洞
 - 任意文件删除漏洞
 - 任意文件包含漏洞
 - 任意命令执行漏洞
-- 反序列化漏洞
+- Java反序列化漏洞
   - https://github.com/frohoff/ysoserial
   - https://github.com/wh1t3p1g/ysomap
   - https://github.com/JackOfMostTrades/gadgetinspector
   - https://github.com/0range228/Gadgets
-
 - XSS跨站脚本攻击
-
 - XML外部实体攻击
-
 - CSRF跨站请求伪造
-
 - SSRF服务端请求伪造
 
 ## 0x05-Java安全
@@ -162,13 +154,11 @@
 一、域名扫描
 
 二、端口扫描
-
 - [ ] https://github.com/angryip/ipscan
 
 三、资产扫描
 
 四、漏洞扫描
-
 - [ ] https://github.com/kuiguansec/rcetool
 - [ ] https://github.com/redtimmy/Richsploit
 - [ ] https://github.com/21superman/weblogic_exploit
@@ -185,16 +175,13 @@
 五、密码破解
 
 六、路径扫描
-
 - [ ] https://github.com/safe6Sec/dirScan
 
 七、Web安全
-
 - [ ] https://github.com/sanbuzhi/sqldd
 - [ ] https://github.com/ethicalhackingplayground/ssrf-king
 
 八、Webshell
-
 - [ ] https://github.com/rebeyond/Behinder
 - [ ] https://github.com/BeichenDream/Godzilla
 - [ ] https://github.com/threedr3am/JSP-Webshells
@@ -204,12 +191,10 @@
 九、病毒免杀
 
 十、逆向工程
-
 - [ ] https://github.com/cmu-sei/kaiju
 - [ ] https://github.com/lqs1848/AllatoriCrack
 
 十一、隧道代理
-
 - [ ] https://github.com/ffay/lanproxy
 - [ ] https://github.com/Ramos-dev/OSSTunnel
 - [ ] https://github.com/CreditTone/mitmproxy-java
@@ -221,7 +206,6 @@
 十四、应急响应
 
 十五、移动安全
-
 - [ ] https://github.com/CodingGay/BlackDex
 - [ ] https://github.com/ElderDrivers/EdXposed
 - [ ] https://github.com/asLody/AndHook
@@ -231,13 +215,11 @@
 十六、漏洞赏金
 
 十七、Burp插件
-
 - [ ] https://github.com/bit4woo/burp-api-drops
 - [ ] https://github.com/synacktiv/HopLa
 - [ ] https://github.com/ggg4566/BurpBountyPlus
 
 十八、其他项目
-
 - [ ] https://github.com/Ramos-dev/R9000
 - [ ] https://github.com/Ramos-dev/graph4code
 - [ ] https://github.com/Efaker/FakerAndroid
