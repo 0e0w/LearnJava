@@ -48,7 +48,7 @@
 
 七、面试资料
 
-八、其他资源
+八、其它资源
 
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
@@ -88,10 +88,9 @@
 
 ## 0x04-Java漏洞
 
-〇、代码审计
+本部分详解Java漏洞内容。包括Java的常规漏洞，以及Java代码审计等相关内容。
 
-- 代码审计小组
-- 漏洞靶机
+一、Java漏洞靶场
 - [ ] https://github.com/Mysticbinary/WebBug
 - [ ] https://github.com/dschadow/JavaSecurity
 - [ ] https://github.com/dschadow/Java-Web-Security
@@ -105,7 +104,7 @@
 - [ ] https://github.com/tangxiaofeng7/SecExample
 - [ ] https://github.com/JoyChou93/java-sec-code
 
-一、代码审计
+二、Java代码审计
 
 - [ ] [javasec_study](https://github.com/proudwind/javasec_study)
 - [ ] [Fortify](https://github.com/wooyunwang/Fortify)
@@ -129,40 +128,34 @@
 - [ ] https://github.com/mtxiaowangzi/CAFJE
 - [ ] https://github.com/MobSF/mobsfscan
 
-二、程序安装问题
+三、常规Web漏洞
 
-三、业务逻辑漏洞
+本部分详细列举常见的Java安全漏洞内容。
 
-四、SQL注入漏洞
+- 程序安装问题
+- 业务逻辑漏洞
+- SQL注入漏洞
+  - https://github.com/yhy0/sqlilab-Jsp
 
-- [ ] https://github.com/yhy0/sqlilab-Jsp
+- 变量覆盖漏洞
+- 任意文件上传漏洞
+- 任意文件写入漏洞
+- 任意文件删除漏洞
+- 任意文件包含漏洞
+- 任意命令执行漏洞
+- 反序列化漏洞
+  - https://github.com/frohoff/ysoserial
+  - https://github.com/wh1t3p1g/ysomap
+  - https://github.com/JackOfMostTrades/gadgetinspector
+  - https://github.com/0range228/Gadgets
 
-五、变量覆盖漏洞
+- XSS跨站脚本攻击
 
-六、任意文件上传漏洞
+- XML外部实体攻击
 
-七、任意文件写入漏洞
+- CSRF跨站请求伪造
 
-八、任意文件删除漏洞
-
-九、任意文件包含漏洞
-
-十、任意命令执行漏洞
-
-十一、反序列化漏洞
-
-- [ ] https://github.com/frohoff/ysoserial
-- [ ] https://github.com/wh1t3p1g/ysomap
-- [ ] https://github.com/JackOfMostTrades/gadgetinspector
-- [ ] https://github.com/0range228/Gadgets
-
-十二、XSS跨站脚本攻击
-
-十三、XML外部实体攻击
-
-十四、CSRF跨站请求伪造
-
-十五、SSRF服务端请求伪造
+- SSRF服务端请求伪造
 
 ## 0x05-Java安全
 
