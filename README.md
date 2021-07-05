@@ -93,7 +93,6 @@
 - [ ] https://github.com/Mysticbinary/WebBug
 - [ ] https://github.com/dschadow/JavaSecurity
 - [ ] https://github.com/dschadow/Java-Web-Security
-- [ ] https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle
 - [ ] https://github.com/novysodope/mytestvul
 - [ ] https://github.com/langligelang/maobugs
 - [ ] https://github.com/ityouknow/spring-boot-examples
@@ -102,13 +101,14 @@
 - [ ] https://github.com/TheKingOfDuck/MySQLMonitor
 - [ ] https://github.com/tangxiaofeng7/SecExample
 - [ ] https://github.com/JoyChou93/java-sec-code
+- [ ] https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle
 
 二、代码审计工具
-
 - [ ] https://github.com/wooyunwang/Fortify
+- [ ] https://github.com/5wimming/gadgetinspector
 
 三、代码审计案例
-
+- [ ] https://github.com/j3ers3/Hello-Java-Sec
 - [ ] https://github.com/proudwind/javasec_study
 - [ ] https://github.com/threedr3am/learnjavabug
 - [ ] https://github.com/SummerSec/JavaLearnVulnerability
@@ -154,6 +154,8 @@
 - SSRF服务端请求伪造
 
 五、安全编码规范
+
+六、代码审计培训
 
 ## 0x05-Java安全
 
@@ -217,6 +219,7 @@
 - [ ] https://github.com/asLody/AndHook
 - [ ] https://github.com/MobSF/mobsfscan
 - [ ] https://github.com/charles2gan/GDA-android-reversing-Tool
+- [ ] https://github.com/FlyingYu-Z/ApkEncryptor
 
 十六、漏洞赏金
 
