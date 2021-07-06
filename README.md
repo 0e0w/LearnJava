@@ -281,6 +281,7 @@
 - [ ] https://github.com/darvincisec/DetectMagiskHide
 - [ ] https://github.com/T00lsNet/T00lsAndroidClient
 - [ ] https://github.com/Astartgo/easy-for-webscan
+- [ ] https://github.com/woodpecker-appstore/weblogic-infodetector
 
 ## 0x06-Java老师
 
