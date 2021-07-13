@@ -56,6 +56,7 @@
 - [ ] https://github.com/singgel/JAVA_LINE
 - [ ] https://github.com/CL0610/Java-concurrency
 - [ ] https://github.com/Han-YLun/jianZhiOffer
+- [ ] https://github.com/dunwu/javacore
 
 ## 0x02-Java框架
 
