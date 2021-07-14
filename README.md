@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年7月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年7月14日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
@@ -31,6 +31,7 @@
 - [ ] [《Java编程思想》](https://github.com/apachecn/thinking-in-java-zh)
 - [ ] [《Java技术栈》](https://github.com/g0dA/javaStack)
 - [ ] [《从零开始学习JavaSE》](https://github.com/hs-vae/java-load)
+- [ ] [《Java代码审计入门篇》](https://item.jd.com/10033832360716.html)@徐焱等
 
 二、视频教程
 
