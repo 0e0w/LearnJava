@@ -58,6 +58,7 @@
 - [ ] https://github.com/CL0610/Java-concurrency
 - [ ] https://github.com/Han-YLun/jianZhiOffer
 - [ ] https://github.com/dunwu/javacore
+- [ ] https://github.com/doocs/source-code-hunter
 
 ## 0x02-Java框架
 
@@ -172,7 +173,19 @@
 
 ## 0x05-Java安全
 
-一、域名扫描
+一、移动安全
+
+- [ ] https://github.com/CodingGay/BlackDex
+- [ ] https://github.com/ElderDrivers/EdXposed
+- [ ] https://github.com/asLody/AndHook
+- [ ] https://github.com/MobSF/mobsfscan
+- [ ] https://github.com/charles2gan/GDA-android-reversing-Tool
+- [ ] https://github.com/FlyingYu-Z/ApkEncryptor
+- [ ] https://github.com/wyzxxz/aksk_tool
+- [ ] https://github.com/deathmarine/Luyten
+- [ ] https://github.com/Fuzion24/JustTrustMe
+- [ ] https://github.com/JZ-Darkal/AndroidHttpCapture
+- [ ] https://github.com/DingProg/NetworkCaptureSelf
 
 二、端口扫描
 - [ ] https://github.com/angryip/ipscan
@@ -192,6 +205,7 @@
 - [ ] https://github.com/tangxiaofeng7/VulnFind
 - [ ] https://github.com/tangxiaofeng7/TSLab-Exploit
 - [ ] https://github.com/yhy0/ExpDemo-JavaFX | 图形化漏洞利用工具 | 94
+- [ ] https://github.com/MrMeizhi/DriedMango
 
 五、密码破解
 
@@ -227,16 +241,7 @@
 
 十四、应急响应
 
-十五、移动安全
-- [ ] https://github.com/CodingGay/BlackDex
-- [ ] https://github.com/ElderDrivers/EdXposed
-- [ ] https://github.com/asLody/AndHook
-- [ ] https://github.com/MobSF/mobsfscan
-- [ ] https://github.com/charles2gan/GDA-android-reversing-Tool
-- [ ] https://github.com/FlyingYu-Z/ApkEncryptor
-- [ ] https://github.com/wyzxxz/aksk_tool
-- [ ] https://github.com/deathmarine/Luyten
-- [ ] https://github.com/Fuzion24/JustTrustMe
+十五、域名扫描
 
 十六、漏洞赏金
 
