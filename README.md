@@ -4,14 +4,15 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年7月15日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年7月17日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
 - [0x03-Java项目](https://github.com/0e0w/LearnJava#0x03-java%E9%A1%B9%E7%9B%AE)
 - [0x04-Java漏洞](https://github.com/0e0w/LearnJava#0x04-java%E6%BC%8F%E6%B4%9E)
 - [0x05-Java安全](https://github.com/0e0w/LearnJava#0x05-java%E5%AE%89%E5%85%A8)
-- [0x06-Java老师](https://github.com/0e0w/LearnJava#0x06-java%E8%80%81%E5%B8%88)
+- [0x06-Java逆向](https://github.com/0e0w/LearnJava#0x06-java%E9%80%86%E5%90%91)
+- [0x07-Java老师](https://github.com/0e0w/LearnJava#0x07-java%E8%80%81%E5%B8%88)
 
 ## 0x01-Java资源
 
@@ -226,34 +227,28 @@
 
 九、病毒免杀
 
-十、逆向工程
-- [ ] https://github.com/cmu-sei/kaiju
-- [ ] https://github.com/lqs1848/AllatoriCrack
-- [ ] https://github.com/NationalSecurityAgency/ghidra
-- [ ] https://github.com/zifeihan/friday
-
-十一、隧道代理
+十、隧道代理
 - [ ] https://github.com/ffay/lanproxy
 - [ ] https://github.com/Ramos-dev/OSSTunnel
 - [ ] https://github.com/CreditTone/mitmproxy-java
 
-十二、内网渗透
+十一、内网渗透
 
-十三、蜜罐钓鱼
+十二、蜜罐钓鱼
 
-十四、应急响应
+十三、应急响应
 
-十五、域名扫描
+十四、域名扫描
 
-十六、漏洞赏金
+十五、漏洞赏金
 
-十七、Burp插件
+十六、Burp插件
 - [ ] https://github.com/bit4woo/burp-api-drops
 - [ ] https://github.com/synacktiv/HopLa
 - [ ] https://github.com/ggg4566/BurpBountyPlus
 - [ ] https://github.com/bit4woo/domain_hunter_pro
 
-十八、其他项目
+十七、其他项目
 - [ ] https://github.com/Ramos-dev/R9000
 - [ ] https://github.com/Ramos-dev/graph4code
 - [ ] https://github.com/Efaker/FakerAndroid
@@ -302,7 +297,22 @@
 - [ ] https://github.com/woodpecker-appstore/weblogic-infodetector
 - [ ] https://github.com/waderwu/attackRmi
 
-## 0x06-Java老师
+## 0x06-Java逆向
+
+一、逆向工具
+
+- [ ] https://github.com/cmu-sei/kaiju
+- [ ] https://github.com/lqs1848/AllatoriCrack
+- [ ] https://github.com/NationalSecurityAgency/ghidra
+- [ ] https://github.com/zifeihan/friday
+
+一、jar逆向
+
+二、apk逆向
+
+三、class逆向
+
+## 0x07-Java老师
 
 此处排名不分先后，向自己在学习Java语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
