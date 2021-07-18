@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年7月17日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年7月18日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
@@ -60,6 +60,7 @@
 - [ ] https://github.com/Han-YLun/jianZhiOffer
 - [ ] https://github.com/dunwu/javacore
 - [ ] https://github.com/doocs/source-code-hunter
+- [ ] https://github.com/fuzhengwei/CodeGuide
 
 ## 0x02-Java框架
 
@@ -99,78 +100,7 @@
 
 ## 0x04-Java漏洞
 
-本部分详解Java漏洞内容。包括Java的常规漏洞，以及Java代码审计等相关内容。
-
-一、Java漏洞靶场
-- [ ] https://github.com/Mysticbinary/WebBug
-- [ ] https://github.com/dschadow/JavaSecurity
-- [ ] https://github.com/dschadow/Java-Web-Security
-- [ ] https://github.com/novysodope/mytestvul
-- [ ] https://github.com/langligelang/maobugs
-- [ ] https://github.com/ityouknow/spring-boot-examples
-- [ ] https://github.com/kevinsawicki/http-request
-- [ ] https://github.com/NanoHttpd/nanohttpd
-- [ ] https://github.com/TheKingOfDuck/MySQLMonitor
-- [ ] https://github.com/tangxiaofeng7/SecExample
-- [ ] https://github.com/JoyChou93/java-sec-code
-- [ ] https://github.com/Zhangyao-zzyy/JavaVulnerableLab-circle
-- [ ] https://github.com/oversecured/ovaa
-- [ ] https://github.com/appsecco/dvja
-- [ ] https://github.com/jaiswalakshansh/Vuldroid
-
-二、代码审计工具
-- [ ] https://github.com/wooyunwang/Fortify
-- [ ] https://github.com/5wimming/gadgetinspector
-
-三、代码审计案例
-- [ ] https://github.com/j3ers3/Hello-Java-Sec
-- [ ] https://github.com/proudwind/javasec_study
-- [ ] https://github.com/threedr3am/learnjavabug
-- [ ] https://github.com/SummerSec/JavaLearnVulnerability
-- [ ] https://github.com/cn-panda/JavaCodeAudit
-- [ ] https://github.com/Maskhe/javasec
-- [ ] https://github.com/phith0n/JavaThings
-- [ ] https://github.com/anbai-inc/javaweb-sec
-- [ ] https://github.com/momosecurity/rhizobia_J
-- [ ] https://github.com/feihong-cs/Java-Rce-Echo
-- [ ] https://github.com/Y4er/WebLogic-Shiro-shell
-- [ ] https://github.com/feihong-cs/Java-Rce-Echo
-- [ ] https://github.com/feihong-cs/JNDIExploit
-- [ ] https://github.com/welk1n/JNDI-Injection-Exploit
-- [ ] https://github.com/March110/javaweb-sec
-- [ ] https://github.com/wh1t3p1g/ysomap
-- [ ] https://github.com/wh1t3p1g/tabby
-- [ ] [攻击Java Web应用](https://appts4jvi.zhishibox.net/b/5d644b6f81cbc9e40460fe7eea3c7925)
-- [ ] https://github.com/returntocorp/semgrep
-- [ ] https://github.com/mtxiaowangzi/CAFJE
-- [ ] https://github.com/MobSF/mobsfscan
-
-四、常规Web漏洞
-
-本部分详细列举常见的Java安全漏洞内容。
-- 程序安装问题
-- 业务逻辑漏洞
-- SQL注入漏洞
-  - https://github.com/yhy0/sqlilab-Jsp
-- 变量覆盖漏洞
-- 任意文件上传漏洞
-- 任意文件写入漏洞
-- 任意文件删除漏洞
-- 任意文件包含漏洞
-- 任意命令执行漏洞
-- Java反序列化漏洞
-  - https://github.com/frohoff/ysoserial
-  - https://github.com/wh1t3p1g/ysomap
-  - https://github.com/JackOfMostTrades/gadgetinspector
-  - https://github.com/0range228/Gadgets
-- XSS跨站脚本攻击
-- XML外部实体攻击
-- CSRF跨站请求伪造
-- SSRF服务端请求伪造
-
-五、安全编码规范
-
-六、代码审计培训
+- [https://github.com/0e0w/Hackjava](https://github.com/0e0w/Hackjava)
 
 ## 0x05-Java安全
 
