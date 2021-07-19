@@ -118,6 +118,7 @@
 - [ ] https://github.com/JZ-Darkal/AndroidHttpCapture
 - [ ] https://github.com/DingProg/NetworkCaptureSelf
 - [ ] https://github.com/PAGalaxyLab/YAHFA
+- [ ] https://github.com/LSPosed/LSPosed
 
 二、端口扫描
 - [ ] https://github.com/angryip/ipscan
@@ -190,7 +191,6 @@
 - [ ] https://github.com/iBotPeaches/Apktool
 - [ ] https://github.com/oracle/graal
 - [ ] https://github.com/TheKingOfDuck/Loki
-- [ ] https://github.com/LSPosed/LSPosed
 - [ ] https://github.com/f1tz/BCELCodeman
 - [ ] https://github.com/guardrailsio/awesome-java-security
 - [ ] https://github.com/sulanmehmetsirin/Raptor
