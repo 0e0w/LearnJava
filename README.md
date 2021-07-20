@@ -227,6 +227,7 @@
 - [ ] https://github.com/Astartgo/easy-for-webscan
 - [ ] https://github.com/woodpecker-appstore/weblogic-infodetector
 - [ ] https://github.com/waderwu/attackRmi
+- [ ] https://github.com/wh1t3p1g/tabby
 
 ## 0x06-Java逆向
 
