@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年7月22日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年7月23日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
@@ -119,6 +119,8 @@
 - [ ] https://github.com/DingProg/NetworkCaptureSelf
 - [ ] https://github.com/PAGalaxyLab/YAHFA
 - [ ] https://github.com/LSPosed/LSPosed
+- [ ] https://github.com/iBotPeaches/Apktool
+- [ ] https://github.com/Col-E/Recaf
 
 二、端口扫描
 - [ ] https://github.com/angryip/ipscan
@@ -189,7 +191,6 @@
 - [ ] https://github.com/tangxiaofeng7/Fofa-collect
 - [ ] https://github.com/Cool-Coding/remote-desktop-control
 - [ ] https://github.com/coodyer/Coody-Framework
-- [ ] https://github.com/iBotPeaches/Apktool
 - [ ] https://github.com/oracle/graal
 - [ ] https://github.com/TheKingOfDuck/Loki
 - [ ] https://github.com/f1tz/BCELCodeman
