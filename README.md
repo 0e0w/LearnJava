@@ -106,9 +106,7 @@
 ## 0x05-Java安全
 
 一、移动安全
-
 - Android
-
 - [ ] https://github.com/CodingGay/BlackDex
 - [ ] https://github.com/ElderDrivers/EdXposed
 - [ ] https://github.com/asLody/AndHook
@@ -127,7 +125,8 @@
 - [ ] https://github.com/topjohnwu/Magisk
 - [ ] https://github.com/Mocha-L/QuJing
 - [ ] https://github.com/t4kemyh4nd/vulnwebview
-
+- [ ] https://github.com/ChenJunsen/Hegui3.0
+- [ ] https://github.com/cgddgc/secheguicheck
 - iOS
 
 二、端口扫描
@@ -176,6 +175,7 @@
 - [ ] https://github.com/CreditTone/mitmproxy-java
 
 十一、内网渗透
+- [ ] https://github.com/bitterzzZZ/MemoryShellLearn
 
 十二、蜜罐钓鱼
 
