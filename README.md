@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年9月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年9月15日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
@@ -66,6 +66,7 @@
 - [ ] https://github.com/jas502n/java-pdf-study
 - [ ] https://github.com/rbmonster/learning-note
 - [ ] https://github.com/CoderLeixiaoshuai/java-eight-part
+- [ ] https://github.com/apachecn/tarena-java-textbooks
 
 ## 0x02-Java框架
 
@@ -153,6 +154,7 @@
 - [ ] https://github.com/tangxiaofeng7/TSLab-Exploit
 - [ ] https://github.com/yhy0/ExpDemo-JavaFX | 图形化漏洞利用工具 | 188
 - [ ] https://github.com/MrMeizhi/DriedMango
+- [ ] https://github.com/songxiaomo1997/ScanStation
 
 五、密码破解
 
