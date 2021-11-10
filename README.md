@@ -77,6 +77,7 @@
 - [ ] https://github.com/INRIA/spoon
 - [ ] https://www.javassist.org
 - [ ] https://github.com/baishui2004/common_gui_tools
+- [ ] https://github.com/woodpecker-framework/woodpecker-requests
 
 ## 0x03-Java项目
 
