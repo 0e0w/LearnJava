@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年11月12日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年11月13日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
@@ -21,7 +21,7 @@
 - https://github.com/jobbole/awesome-java-cn
 - https://github.com/CodingDocs/awesome-java
 
-一、基础书籍
+一、书籍资源
 - [ ] [《27天成为Java大神》](https://github.com/DuGuQiuBai/Java)
 - [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
 - [ ] [《互联网 Java工程师进阶知识完全扫盲》](https://github.com/doocs/advanced-java)
@@ -52,7 +52,6 @@
 七、面试资料
 
 八、其它资源
-
 - [ ] [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 - [ ] [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 - [ ] https://github.com/doocs/jvm
@@ -68,6 +67,7 @@
 - [ ] https://github.com/CoderLeixiaoshuai/java-eight-part
 - [ ] https://github.com/apachecn/tarena-java-textbooks
 - [ ] https://github.com/itwanger/toBeBetterJavaer
+- [ ] https://github.com/youlookwhat/DesignPattern
 
 ## 0x02-Java框架
 
@@ -143,7 +143,6 @@
 - iOS
 
 二、端口扫描
-
 - [ ] https://github.com/angryip/ipscan
 
 三、资产扫描
@@ -267,7 +266,6 @@
 ## 0x06-Java逆向
 
 一、逆向工具
-
 - [ ] https://github.com/cmu-sei/kaiju
 - [ ] https://github.com/lqs1848/AllatoriCrack
 - [ ] https://github.com/NationalSecurityAgency/ghidra
