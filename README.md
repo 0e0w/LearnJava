@@ -68,6 +68,7 @@
 - [ ] https://github.com/apachecn/tarena-java-textbooks
 - [ ] https://github.com/itwanger/toBeBetterJavaer
 - [ ] https://github.com/youlookwhat/DesignPattern
+- [ ] https://github.com/akullpp/awesome-java
 
 ## 0x02-Java框架
 
