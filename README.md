@@ -1,10 +1,10 @@
 # LearnJava
 
-本项目是记录自己在学习Java语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能得理解Java漏洞原理，尽可能得挖掘Java程序漏洞。学习Java语言，面向对象编程！作者：[0e0w](https://github.com/0e0w/LearnJava)
+本项目是记录自己在学习Java语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能得理解Java漏洞原理，尽可能得挖掘Java程序漏洞。学习Java语言，面向对象编程！作者：[0e0w](https://github.com/0e0w)
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
 
-本项目创建于2020年9月10日。最近一次更新时间为2021年11月20日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2021年11月21日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
 - [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
@@ -166,6 +166,7 @@
 - [ ] https://github.com/songxiaomo1997/ScanStation
 - [ ] https://github.com/ghealer/G_Scan
 - [ ] https://github.com/woodpecker-framework/woodpecker-framwork-release
+- [ ] https://github.com/jinsezlb/SnowShadow
 
 五、密码破解
 
@@ -284,8 +285,8 @@
 
 此处排名不分先后，向自己在学习Java语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
-一、Java教程资源
-
 - 王剑威
+- 北邮暖羊羊
 
-二、Java语言参考
+[![Stargazers over time](https://starchart.cc//0e0w/LearnJava.svg)](https://starchart.cc/0e0w/LearnJava)
+
