@@ -113,6 +113,7 @@
 - [ ] https://github.com/JPressProjects/jpress
 - [ ] https://github.com/tal-tech/conan
 - [ ] https://github.com/ssssssss-team/spider-flow
+- [ ] https://github.com/blinkfox/fenix
 
 ## 0x04-Java漏洞
 
@@ -184,6 +185,7 @@
 - [ ] https://github.com/threedr3am/JSP-Webshells
 - [ ] https://github.com/Ramos-dev/OSSTunnel
 - [ ] https://github.com/thatcherclough/BetterBackdoor
+- [ ] https://github.com/b1ackc4t/Assassin
 
 九、病毒免杀
 
@@ -290,4 +292,3 @@
 - 北邮暖羊羊
 
 [![Stargazers over time](https://starchart.cc//0e0w/LearnJava.svg)](https://starchart.cc/0e0w/LearnJava)
-
