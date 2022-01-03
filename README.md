@@ -83,6 +83,7 @@
 - [ ] https://github.com/NanoHttpd/nanohttpd
 - [ ] https://github.com/xuexiangjys/XUI
 - [ ] https://github.com/alibaba/easyexcel
+- [ ] https://github.com/EmYiQing/HacLang
 
 ## 0x03-Java项目
 
