@@ -1,22 +1,22 @@
 # LearnJava
 
-本项目是记录自己在学习Java语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能得理解Java漏洞原理，尽可能得挖掘Java程序漏洞。学习Java语言，面向对象编程！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习Java语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解Java，尽可能的理解Java漏洞。学习Java语言，面向对象编程！作者：[0e0w](https://github.com/0e0w)
 
-关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。Jia is Java.
+关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。LearnJava , Save The Universe.
 
-本项目创建于2020年9月10日。最近一次更新时间为2022年1月24日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2022年2月17日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Java资源](https://github.com/0e0w/LearnJava#0x01-java%E8%B5%84%E6%BA%90)
-- [0x02-Java框架](https://github.com/0e0w/LearnJava#0x03-java%E6%A1%86%E6%9E%B6)
-- [0x03-Java项目](https://github.com/0e0w/LearnJava#0x03-java%E9%A1%B9%E7%9B%AE)
-- [0x04-Java漏洞](https://github.com/0e0w/LearnJava#0x04-java%E6%BC%8F%E6%B4%9E)
-- [0x05-Java安全](https://github.com/0e0w/LearnJava#0x05-java%E5%AE%89%E5%85%A8)
-- [0x06-Java逆向](https://github.com/0e0w/LearnJava#0x06-java%E9%80%86%E5%90%91)
-- [0x07-Java老师](https://github.com/0e0w/LearnJava#0x07-java%E8%80%81%E5%B8%88)
+- [01-Java资源](https://github.com/HackJava/LearnJava#01-java%E8%B5%84%E6%BA%90)
+- [02-Java框架](https://github.com/HackJava/LearnJava#02-java%E6%A1%86%E6%9E%B6)
+- [03-Java项目](https://github.com/HackJava/LearnJava#03-java%E9%A1%B9%E7%9B%AE)
+- [04-Java漏洞](https://github.com/HackJava/LearnJava#04-java%E6%BC%8F%E6%B4%9E)
+- [05-Java安全](https://github.com/HackJava/LearnJava#05-java%E5%AE%89%E5%85%A8)
+- [06-Java逆向](https://github.com/HackJava/LearnJava#06-java%E9%80%86%E5%90%91)
+- [07-Java老师](https://github.com/HackJava/LearnJava#07-java%E8%80%81%E5%B8%88)
 
-## 0x01-Java资源
+## 01-Java资源
 
-- https://github.com/0e0w/LearnJava
+- https://github.com/HackJava/LearnJava
 - https://github.com/Snailclimb/awesome-java
 - https://github.com/jobbole/awesome-java-cn
 - https://github.com/CodingDocs/awesome-java
@@ -71,7 +71,7 @@
 - [ ] https://github.com/akullpp/awesome-java
 - [ ] https://github.com/Firebasky/Java
 
-## 0x02-Java框架
+## 02-Java框架
 
 - [ ] https://github.com/dromara/hutool
 - [ ] https://github.com/MrZhousf/OkHttp3
@@ -93,7 +93,7 @@
 - [ ] https://github.com/jacoco/jacoco
 - [ ] https://github.com/noear/solon
 
-## 0x03-Java项目
+## 03-Java项目
 
 - https://github.com/trending/Java
 - https://github.com/topics/tool?l=Java
@@ -129,11 +129,9 @@
 - [ ] https://github.com/l42111996/java-Kcp
 - [ ] https://github.com/fengjx/java-hot-reload-agent
 
-## 0x04-Java漏洞
+## 04-Java安全
 
 - [https://github.com/Hackjava/Hackjava](https://github.com/Hackjava/Hackjava)
-
-## 0x05-Java安全
 
 一、移动安全
 - Android
@@ -295,7 +293,7 @@
 - [ ] https://github.com/Wker666/wJa
 - [ ] https://github.com/janino-compiler/jsh
 
-## 0x06-Java逆向
+## 05-Java逆向
 
 一、逆向工具
 - [ ] https://github.com/cmu-sei/kaiju
@@ -310,11 +308,11 @@
 
 三、class逆向
 
-## 0x07-Java老师
+## 06-Java老师
 
 此处排名不分先后，向自己在学习Java语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
-- 王剑威
-- 北邮暖羊羊
+- 马剑威
+- 北邮暖洋洋
 
-[![Stargazers over time](https://starchart.cc//0e0w/LearnJava.svg)](https://starchart.cc/0e0w/LearnJava)
+[![Stargazers over time](https://starchart.cc//HackJava/LearnJava.svg)](https://starchart.cc/HackJava/LearnJava)
