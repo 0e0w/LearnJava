@@ -2,9 +2,9 @@
 
 本项目是记录自己在学习Java语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解Java，尽可能的理解Java漏洞。学习Java语言，面向对象编程！作者：[0e0w](https://github.com/0e0w)
 
-关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。LearnJava , Save The Universe.
+关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。LearnJava , Save Universe.
 
-本项目创建于2020年9月10日。最近一次更新时间为2022年2月17日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2022年2月18日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java资源](https://github.com/HackJava/LearnJava#01-java%E8%B5%84%E6%BA%90)
 - [02-Java框架](https://github.com/HackJava/LearnJava#02-java%E6%A1%86%E6%9E%B6)
@@ -212,6 +212,7 @@
 - [ ] https://github.com/Ramos-dev/OSSTunnel
 - [ ] https://github.com/CreditTone/mitmproxy-java
 - [ ] https://github.com/mirsamantajbakhsh/OnionTunnel
+- [ ] https://github.com/orleven/Jsockproxy
 
 十一、内网渗透
 - [ ] https://github.com/bitterzzZZ/MemoryShellLearn
