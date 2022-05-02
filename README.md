@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。LearnJava , Save Universe.
 
-本项目创建于2020年9月10日。最近一次更新时间为2022年2月22日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2022年4月30日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java资源](https://github.com/HackJava/LearnJava#01-java%E8%B5%84%E6%BA%90)
 - [02-Java框架](https://github.com/HackJava/LearnJava#02-java%E6%A1%86%E6%9E%B6)
@@ -26,6 +26,7 @@
 - [ ] [《Java学习-面试指南》](https://github.com/Snailclimb/JavaGuide)
 - [ ] [《互联网 Java工程师进阶知识完全扫盲》](https://github.com/doocs/advanced-java)
 - [ ] [《Java工程师成神之路》](https://github.com/hollischuang/toBeTopJavaer)@hollischuang
+- [ ] [《Java基础入门笔记》](https://github.com/JackChan1999/Java_Basic_Introduction)@JackChan1999
 - [ ] [《IntelliJ IDEA 简体中文专题教程》](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - [ ] [《成为一个更好的Java程序员》](https://github.com/crisxuan/bestJavaer)
 - [ ] [《On Java 8》](https://github.com/LingCoder/OnJava8)
@@ -33,7 +34,6 @@
 - [ ] [《Java编程思想》](https://github.com/apachecn/thinking-in-java-zh)
 - [ ] [《Java技术栈》](https://github.com/g0dA/javaStack)
 - [ ] [《从零开始学习JavaSE》](https://github.com/hs-vae/java-load)
-- [ ] [《Java代码审计入门篇》](https://item.jd.com/10033832360716.html)@徐焱等
 
 二、视频教程
 
@@ -186,8 +186,10 @@
 - [ ] https://github.com/ByHuaiNian/exploit_verify_tools
 - [ ] https://github.com/bit4woo/knife
 - [ ] https://github.com/f0ng/poc2jar
+- [ ] https://github.com/fullstackcainiao/Exp-JavaFX
 
 五、密码破解
+- [ ] https://github.com/arcaneiceman/kraken
 
 六、路径扫描
 - [ ] https://github.com/safe6Sec/dirScan
