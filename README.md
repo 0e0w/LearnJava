@@ -130,6 +130,7 @@
 - [ ] https://github.com/aunkrig/lfr
 - [ ] https://github.com/l42111996/java-Kcp
 - [ ] https://github.com/fengjx/java-hot-reload-agent
+- [ ] https://github.com/ffffffff0x/BerylEnigma
 
 ## 04-Java安全
 
