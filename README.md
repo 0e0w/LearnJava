@@ -4,7 +4,7 @@
 
 关于Java语言的学习教程，可以参考[《365天深入理解Java语言》](https://github.com/0e0w/365Java)。LearnJava , Save Universe.
 
-本项目创建于2020年9月10日。最近一次更新时间为2022年10月25日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月10日。最近一次更新时间为2022年11月29日。本项目会持续更新，直到海枯石烂。
 
 - [01-Java资源](https://github.com/HackJava/LearnJava#01-java%E8%B5%84%E6%BA%90)
 - [02-Java框架](https://github.com/HackJava/LearnJava#02-java%E6%A1%86%E6%9E%B6)
@@ -193,6 +193,7 @@
 - [ ] https://github.com/fullstackcainiao/Exp-JavaFX
 - [ ] https://github.com/Weik1/Artillery
 - [ ] https://github.com/tls-attacker/TLS-Anvil
+- [ ] https://github.com/1n7erface/RequestTemplate
 
 五、密码破解
 - [ ] https://github.com/arcaneiceman/kraken
